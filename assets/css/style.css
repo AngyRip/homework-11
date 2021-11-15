@@ -1,0 +1,50 @@
+.menu-logo {
+    color: black;
+    text-decoration: none;
+    border-right: 1px solid black;
+    padding-right: 9px;
+    padding-left: 6px;
+}
+.menu {
+    color: slategray;
+    text-decoration: none;
+    font-size: 16px;
+}
+.menu:hover {
+    color: white;
+}
+.big {
+    width: 100%;
+}
+.sml-1 {
+    width: 32%;
+    background-image: url(../img/sml-1.jpg);
+    background-size: 100%;
+}
+.sml-2 {
+    width: 32%;
+    background-image: url(../img/sml-2.jpg);
+    background-size: 100%;
+
+}
+.sml-3 {
+    width: 32%;
+    background-image: url(../img/sml-3.jpg);
+    overflow: initial;
+    background-repeat: round;
+    background-size: 100%;
+}
+.sml-img {
+    height: 10rem;
+    margin-top: 2rem;
+}
+.sml-p {
+    color: white;
+    font-size: 2rem;
+    text-shadow: 2px 2px 2px black;
+    padding-left: 1rem;
+    padding-top: 7rem;
+}
+.card {
+    width: 20%;
+}
