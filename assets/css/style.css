@@ -48,3 +48,29 @@
 .card {
     width: 20%;
 }
+footer {
+    margin-top: 3rem;
+}
+.menu-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 3rem;
+    margin-left: 1.5rem;
+}
+.link {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.menu-foot {
+    text-decoration: none;
+    border-top: 1px solid black;
+    padding: 1rem 0 1rem 0;
+    color: black;
+}
+.foot {
+    background: black;
+    color: white;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    border: 0.5rem solid black;
+}
